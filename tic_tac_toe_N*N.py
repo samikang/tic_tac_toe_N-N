@@ -1,7 +1,7 @@
 #!/usr/bin/python
 ''' ---------------------- Tic Tac Toe Game ----------- #
-# Author : Shanshan zhang
-# Date   : 27/09/2016
+# Author : samikang
+# Date   : 10/08/2016
 # Email  : xiangxiangster@hotmail.com
 # ------------------------------------------------------------
 '''
